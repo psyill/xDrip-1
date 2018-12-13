@@ -1021,7 +1021,7 @@
     <string name="title_Double_Calibrations">Double Calibrations</string>
     <string name="summary_Enable_to_allow_variable_slopes_with_Libre_collection_methods">Enable to allow variable slopes with Libre collection methods</string>
     <string name="title_Non_fixed_Libre_slopes">Non-fixed Libre slopes</string>
-    <string name="summary_Allow_initial_calibration_no_good_enough_data">Allow initial calibration even if we don't have good enough data. Beware could result in inaccurate calibration!</string>
+    <string name="summary_Allow_initial_calibration_no_good_enough_data">Allow initial calibration even if we don\'t have good enough data. Beware could result in inaccurate calibration!</string>
     <string name="title_Bypass_quality_check">Bypass quality check</string>
     <string name="summary_Scan_before_connecting_on_xBridge_and_Libre_bluetooth">Scan before connecting on xBridge and Libre bluetooth</string>
     <string name="title_Use_scanning">Use scanning</string>
@@ -1039,7 +1039,7 @@
     <string name="title_Batterylog">Batterylog</string>
     <string name="summary_Choose_to_display_the_bridge_battery_level">Choose to display the bridge battery level</string>
     <string name="title_Glucose_Retention">Glucose Retention</string>
-    <string name="summary_Erase_data_older_than_this_many_days">Erase data older than this many days. 0 = don't erase anything</string>
+    <string name="summary_Erase_data_older_than_this_many_days">Erase data older than this many days. 0 = don\'t erase anything</string>
     <string name="title_Other_misc_options">Other misc options</string>
     <string name="summary_allow_testing_with_dead_sensor">allow testing with dead sensor</string>
     <string name="title_NOT_FOR_PRODUCTION_USE">NOT FOR PRODUCTION USE</string>
